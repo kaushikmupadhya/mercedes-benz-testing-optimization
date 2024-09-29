@@ -22,8 +22,6 @@ Faster testing times can lead to reduced carbon dioxide emissions and greater pr
 ## Project Structure
 - `data/` - Contains the raw and processed data.
 - `notebooks/` - Jupyter notebooks with exploratory data analysis (EDA) and model development.
-- `src/` - Source code for data preprocessing, model training, and evaluation.
-- `models/` - Saved models and results.
 - `README.md` - Project overview and documentation.
 
 ## Getting Started
